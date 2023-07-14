@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+.blog{
+    background-color: blueviolet;
+    border: 1px solid red;
+    margin: 10px;
+    
+}
+.blog h1{
+    text-decoration: underline wavy coral;
+    color: white;
+    text-align: center;
+}
+.top{
+    background-image: url('../images/devloper.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    color: white;
+    text-align: center;
+    background-blend-mode:darken;
+    text-decoration: underline overline #FF3028;
+}
+strong{
+    text-decoration: underline;
+    display: inline-block;
+}
+.footer{
+    display: block;
+    box-shadow: ;
+}
